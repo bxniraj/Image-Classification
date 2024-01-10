@@ -1,4 +1,4 @@
-# Irish-Flower-Classification
+# Irish Flower Classification
 Testing and Training Dataset of Irish Flower 🌺 by using Pytorch
 
 Iris flower classification is a classic machine learning problem that involves classifying iris flowers into three species (setosa, versicolor, and virginica) based on the features of their flowers, such as sepal length, sepal width, petal length, and petal width. 
@@ -18,3 +18,5 @@ In this example, I’ll show you how to perform iris flower classification using
 
 
 for more visit this link: https://medium.com/@bxniraj/iris-flower-classification-using-pytorch-cnn-model-9305ecb54f55
+
+# Cat vs Dog Image Classification.
